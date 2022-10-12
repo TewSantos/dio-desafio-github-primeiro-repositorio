@@ -12,6 +12,6 @@ https://dev.to/dxwebster/como-conectar-ao-github-com-chaves-ssh-1i41#:~:text=Adi
 
 https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/
 
-### Comandos para Atualizar o repositório n o GitHub:
+### Comandos para Atualizar o repositório no GitHub:
 
 git push origin main
